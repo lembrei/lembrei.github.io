@@ -8,10 +8,9 @@ pin: true
 ---
 
 
-# Instalação do Wireshark no Linux
-
 ## Instalação do Wireshark no Linux de forma a exexecutar o programa como um usúario comum.
 
+![image](https://www.wireshark.org/assets/images/sflogo.png)
 ### Para tal é necessário executar alguns comandos de forma a ajustar as premições necessárias.
 
 A primeira coisa a fazer é naturalmente instalar o prorama com o seguinte comando.
