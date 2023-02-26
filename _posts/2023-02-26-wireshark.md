@@ -2,8 +2,8 @@
 title: Instalação do Wireshark
 author: Pa3r1ck
 date: 2023-02-26 20:10:00 +0800
-categories: [Wireshark, Tutorial, Linux, Segurança]
-tags: [linux, wireshark]
+categories: [Wireshark]
+tags: [wireshark]
 pin: true
 ---
 
@@ -21,29 +21,29 @@ sudo apt install wireshark
 ```
 De seguida criamos um grupo chamado Wireshark.
 
-```
+``` bash
 sudo groupadd wireshark
 ```
 Adicionamos o nosso nome de utilizador ao grupo que acababos de criar. Neste exemplo o utilizador dá pelo nome de "user".
 
-```
+``` bash
 sudo adduser user wireshark
 ```
 Fazemos a alteração do grupo.
 
-```
+``` bash
 sudo chgrp wireshark /usr/bin/dumpcap
 ```
 
 Alteramos as permições.
 
-```
+``` bash
 sudo chmod 750 /usr/bin/dumpcap
 ```
 
 E por fim emitimos o seguinte comando.
 
-```
+``` bash
 sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/dumpcap
 ```
 
