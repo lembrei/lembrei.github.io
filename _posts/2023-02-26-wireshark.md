@@ -7,8 +7,7 @@ tags: [wireshark]
 pin: true
 ---
 
-
-# Instalação do Wireshark no Linux
+![image](https://www.wireshark.org/assets/images/sflogo.png)
 
 ## Instalação do Wireshark no Linux de forma a exexecutar o programa como um usúario comum.
 
