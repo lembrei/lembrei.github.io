@@ -4,7 +4,7 @@ author: Pa3r1ck
 date: 2023-02-27 20:10:00 +0800
 categories: [Ubuntu]
 tags: [wireguard]
-pin: true
+pin: false
 ---
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_of_WireGuard.svg)

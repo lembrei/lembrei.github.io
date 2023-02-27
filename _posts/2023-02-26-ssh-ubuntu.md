@@ -4,7 +4,7 @@ author: Pa3r1ck
 date: 2023-02-26 21:10:00 +0800
 categories: [ssh, Ubuntu]
 tags: [ssh]
-pin: true
+pin: false
 ---
 
 

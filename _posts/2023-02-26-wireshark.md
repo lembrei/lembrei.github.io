@@ -4,7 +4,7 @@ author: Pa3r1ck
 date: 2023-02-26 20:10:00 +0800
 categories: [Wireshark]
 tags: [wireshark]
-pin: true
+pin: false
 ---
 
 ![image](https://www.wireshark.org/assets/images/sflogo.png)
