@@ -32,7 +32,7 @@ usermod -aG sudo user
 A próxima etapa para proteger seu servidor é configurar a autenticação de chave pública para seu novo utilizador. A configuração aumentará a segurança do seu servidor, exigindo uma chave SSH privada para fazer o login.
 
 
-Se você ainda não tiver um par de chaves SSH, que consiste em uma chave pública e uma privada, será necessário gerar uma. Se você já tem uma chave que deseja usar, pule para a etapa Copiar a chave pública .
+Se você ainda não tiver um par de chaves SSH, que consiste em uma chave pública e uma privada, será necessário gerar uma. Se você já tem uma chave que deseja usar, pule para a etapa Copiar a chave pública.
 
 Para gerar um novo par de chaves, digite o seguinte comando no terminal de sua máquina local (ou seja, seu computador e pressione enter.
 ``` bash
