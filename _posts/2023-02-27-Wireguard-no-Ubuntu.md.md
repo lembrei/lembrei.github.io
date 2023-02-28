@@ -1,6 +1,6 @@
 ---
 title: Instalação do Wireguard num servidor Ubuntu
-author: Pa3r1ck
+author: pa3r1ck
 date: 2023-02-27 20:10:00 +0800
 categories: [Ubuntu]
 tags: [wireguard]

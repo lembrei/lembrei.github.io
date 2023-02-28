@@ -1,6 +1,6 @@
 ---
 title: Instalação do Wireshark
-author: Pa3r1ck
+author: pa3r1ck
 date: 2023-02-26 20:10:00 +0800
 categories: [Wireshark]
 tags: [wireshark]

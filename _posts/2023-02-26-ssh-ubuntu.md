@@ -1,6 +1,6 @@
 ---
 title: Configuração inicial de um servidor Ubuntu
-author: Pa3r1ck
+author: pa3r1ck
 date: 2023-02-26 21:10:00 +0800
 categories: [ssh, Ubuntu]
 tags: [ssh]
