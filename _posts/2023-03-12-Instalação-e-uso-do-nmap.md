@@ -25,30 +25,30 @@ Escanear portas em um sistema: O Nmap pode ser usado para escanear portas em um 
 ``` bash
 nmap <endereço IP>
 ```
-Substitua "<endereço IP>" pelo endereço IP do sistema que deseja escanear.
+Substitua "endereço IP" pelo endereço IP do sistema que deseja escanear.
 
 Descobrir dispositivos em uma rede: O Nmap pode ser usado para descobrir dispositivos em uma rede. Isso pode ser útil para identificar quais dispositivos estão conectados à sua rede. Para descobrir dispositivos em uma rede, basta digitar o seguinte comando no terminal:
 ``` bash
 nmap -sP <endereço IP>/24
 ```
-Substitua "<endereço IP>" pelo endereço IP da sua rede.
+Substitua "endereço IP" pelo endereço IP da sua rede.
 
 Descobrir o sistema operacional em um sistema: O Nmap pode ser usado para descobrir o sistema operacional em um sistema. Isso pode ser útil para identificar quais sistemas operacionais estão sendo usados em uma rede. Para descobrir o sistema operacional em um sistema, basta digitar o seguinte comando no terminal:
 ``` bash
 nmap -O <endereço IP>
 ```
-Substitua "<endereço IP>" pelo endereço IP do sistema que deseja escanear.
+Substitua "endereço IP" pelo endereço IP do sistema que deseja escanear.
 
 Escanear vulnerabilidades em um sistema: O Nmap pode ser usado para escanear vulnerabilidades em um sistema. Isso pode ajudar a identificar quais sistemas estão em risco de serem explorados por hackers. Para escanear vulnerabilidades em um sistema, basta digitar o seguinte comando no terminal:
 ``` bash
 nmap -sV --script vuln <endereço IP>
 ```
-Substitua "<endereço IP>" pelo endereço IP do sistema que deseja escanear.
+Substitua "endereço IP" pelo endereço IP do sistema que deseja escanear.
 
 Escanear uma rede Wi-Fi: O Nmap também pode ser usado para escanear uma rede Wi-Fi. Isso pode ajudar a identificar quais dispositivos estão conectados à sua rede Wi-Fi e se há dispositivos não autorizados. Para escanear uma rede Wi-Fi, basta digitar o seguinte comando no terminal:
 ``` bash
 sudo nmap -sS <endereço IP>/24
 ```
-Substitua "<endereço IP>" pelo endereço IP da sua rede Wi-Fi.
+Substitua "endereço IP" pelo endereço IP da sua rede Wi-Fi.
 
 Em conclusão, o Nmap é uma ferramenta extremamente útil para administradores de rede e segurança. Se você é novo no uso do Nmap, comece experimentando esses exemplos e descubra como o Nmap pode ajudar a proteger sua rede e sistemas contra ameaças externas.
