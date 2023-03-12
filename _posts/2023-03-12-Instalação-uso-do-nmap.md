@@ -26,7 +26,6 @@ Escanear portas em um sistema: O Nmap pode ser usado para escanear portas em um 
 nmap <endereço IP>
 ```
 
-
 Descobrir dispositivos em uma rede: O Nmap pode ser usado para descobrir dispositivos em uma rede. Isso pode ser útil para identificar quais dispositivos estão conectados à sua rede. Para descobrir dispositivos em uma rede, basta digitar o seguinte comando no terminal:
 ``` bash
 nmap -sP <endereço IP>/24
